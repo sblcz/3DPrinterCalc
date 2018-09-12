@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">3D打印机脉冲计算器</string>
+    <string name="textVer">历时三年，耗资数亿，百人巨作。</string>
+    <string name="textED">——BY：無丶作為</string>
+    <string name="toastText">再按一次返回退出程序……o(╥﹏╥)o</string>
+    <string name="text_bug">
+        V1.2:\n
+        修改了同步带计算类中的名词错误；\n
+        把“同步带”修正为“同步轮”。\n
+        \n
+        V1.1:\n
+        修复π数据类型错误；\n
+        导致π的值为3而不是3.1415926.....。\n
+        \n
+        V1.0:\n
+        功能的基本实现。\n
+        \n
+    </string>
+
+
+    <!--通用文字-->
+    <string name="textdj">电机步进角：</string>
+    <string name="textqd">驱动器细分：</string>
+    <!--同步带文字-->
+    <string name="textGTjj">同步轮节距：</string>
+    <string name="textGTcs">同步轮齿数：</string>
+    <string name="btnGTjs">计算同步轮脉冲</string>
+    <!--丝杆文字-->
+    <string name="textSGdc">丝杆导程：</string>
+    <string name="btnSGjs">计算丝杆脉冲</string>
+    <!--挤出机文字-->
+    <string name="textJCzj">挤出轮直径：</string>
+    <string name="btnJCjs">计算挤出轮脉冲</string>
+</resources>
